@@ -72,7 +72,7 @@ Apoiar a tomada de decisão através de dados, permitindo:
 ---
 
 ## 🖼️ Dashboard
-![Dashboard](imagens/visa-geral.jpg)
+![Imagens](imagens/visa-geral.jpg)
 
 ---
 
