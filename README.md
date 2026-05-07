@@ -90,4 +90,4 @@ O dashboard permite uma visão estratégica e integrada da jornada do cliente, a
 
 ## 👤 Autor
 Mateus Henrique  
-Analista de Dados | Power BI | SQL | Python
+Engenheiro de Produção | Analista Administrativo | Em transição para Data Analytics | Power BI | Python | MBA em Data Science, Analytics e IA – USP/Esalq
